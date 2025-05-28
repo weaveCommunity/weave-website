@@ -1,0 +1,60 @@
+<div class="container">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+
+            <a class="navbar-brand" href='{{ "" | relURL }}'>
+                <div class="elementor-widget-container">
+                    <img alt=""
+                         class="attachment-full size-full wp-image-1095"
+                         height="69"
+                         src='{{ "img/logo.jpg" | relURL }}'
+                         width="200"/>
+                </div>
+            </a>
+
+            <button aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation" class="navbar-toggler"
+                    data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse"
+                    type="button">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                    {{- $page := site.GetPage page.Section }}
+                    {{- range site.Menus.main }}
+                    {{- $active := $page.IsMenuCurrent .Menu . }}
+                    {{- $activeSub := $page.HasMenuCurrent .Menu . }}
+                    {{- if .HasChildren }}
+                    <li class="nav-item dropdown">
+                        <div class="btn-group">
+                            <a href='{{ .URL | relURL }}'>
+                                <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
+                            </a>
+                            <button aria-expanded="false"
+                                    class="nav-link dropdown-toggle dropdown-toggle-split{{ if $activeSub }} active{{ end }}"
+                                    data-bs-toggle="dropdown">
+                            </button>
+
+                            <ul class="dropdown-menu">
+                                {{- range .Children }}
+                                {{- $active := $page.IsMenuCurrent .Menu . }}
+                                <li><a class="dropdown-item {{ if $active }}active{{ end }}"
+                                       href='{{ .URL | relURL }}'>{{- .Name }}</a></li>
+                                {{- end }}
+                            </ul>
+                        </div>
+                    </li>
+                    {{- else }}
+                    <a href='{{ .URL | relURL }}'>
+                        <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
+                    </a>
+                    {{- end }}
+                    {{- end }}
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+</div>

@@ -1,0 +1,11 @@
+#Hugo
+.hugo_build.lock
+public/
+resources/
+
+# Pycharm
+.idea/
+.DS_Store
+
+#Other
+scrape/

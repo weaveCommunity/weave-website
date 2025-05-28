@@ -1,0 +1,34 @@
+baseURL = "https://www.weavecommunity.org/"
+languageCode = "en-us"
+title = "Weave Community"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = "true"
+[menus]
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/the-soil-factory-2'
+    weight = 10
+  [[menus.main]]
+    name = 'About Us'
+    pageRef = '/about'
+    weight = 20
+  [[menus.main]]
+    name = 'The Soil Factory'
+    pageRef = '/the-soil-factory-2'
+    parent = 'Projects'
+    weight = 10
+  [[menus.main]]
+    name = 'Migration Project'
+    pageRef = '/migration'
+    parent = 'Projects'
+    weight = 11
+  [[menus.main]]
+    name = 'AskPearl - Off the Couch'
+    pageRef = '/askpearl-off-the-couch'
+    parent = 'Projects'
+    weight = 12
+  [[menus.main]]
+    name = 'Youth Engagement'
+    pageRef = '/youth-engagement'
+    parent = 'Projects'
+    weight = 13
