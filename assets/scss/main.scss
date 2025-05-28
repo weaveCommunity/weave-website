@@ -37,12 +37,6 @@ p {
   color: var(--title);
 }
 
-blockquote p {
-  font-size: 1.75rem;
-  line-height: 1.2;
-  margin: 0 200px;
-}
-
 p img {
   display: block;
   margin: auto;
@@ -56,7 +50,6 @@ button:hover {
 button:focus {
   background: var(--green);
 }
-
 
 .dropdown-item.active {
   background: var(--green);
