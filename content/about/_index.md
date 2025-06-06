@@ -18,7 +18,7 @@ Rebecca Nelson is a biologist with interests in international smallholder agricu
 
 Dan Torop is a photographer who examines how we shape, mark, and imagine the land. Torop is a co-editor of ASMR4, a series of photography monographs. His work has been shown nationally and internationally in galleries and museums. He has contributed code to *darktable*, an open source tool for processing photographs. *Triple Canopy*, *Cabinet*, *purple*, *Paper Monument* and other periodicals have published his images and writing. His involvement with The Soil Factory community includes working with the artist-in-residency group, the film screenings, and the general flow of the place.
 
-Emeritus Board Members
+### Emeritus Board Members
 
 **Kathrin Achenbach**  
  Kathrin is a social arts practitioner with extensive experience as an educator, bridging language, cultural and social divides in settings around the world. Her interests include inquiry on how communities are created through verbal, non-verbal, visual, and face-to-face interactions. She believes that shared experiences grounded in respect and genuine curiosity are the foundation for healthy communities. Kathrin teaches middle-school and offers a regular communal practice of creative mending in diverse and intergenerational settings.
