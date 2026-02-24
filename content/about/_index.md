@@ -14,14 +14,14 @@ Aimée Lehmann is a freelance writer whose writing reflects the intersect betwee
 
 Johannes is originally from Munich, Germany, and has lived in Ithaca for 25 years. He is teaching in the agricultural college at Cornell University, investigating smallholder agricultural systems in the tropics, organizing environmental science programs and exploring the intersection of art and sustainability science. Johannes has co-founded a non-profit, serves on the board of several environmental organizations, scientific journals, and federal committees. He believes in community engagement and the power of joint experiences at the Soil Factory.
 
+**Audrey McDougal**
+
+Audrey McDougal is a Licensed Clinical Social Worker with over ten years’ experience as a mental health clinician and educator. Audrey works with individuals, families and groups to enhance well-being, strengthen communication and promote resilience. Originally from the Finger Lakes region, Audrey supports local farmers in her current role as Family Consultant with NY FarmNet. She is a certified Mental Health First Aid Instructor and Reiki practitioner; in addition, she holds a Graduate Certificate in Ecotherapy and is passionate about deepening connections to the natural world.
+
 **Rebecca Nelson**
 
 Rebecca Nelson is a biologist with interests in international smallholder agriculture, agroecology, and participatory research. She was born in Washington DC, spent 13 years abroad after graduate school, and has lived in Ithaca for the past 25 years.  She works at Cornell, where her research and teaching focus on circular economy for organic resources. Rebecca is a fan of the Soil Factory and its wider network.
 
-
-**Audrey McDougal**
-
-Audrey McDougal is a Licensed Clinical Social Worker with over ten years’ experience as a mental health clinician and educator. Audrey works with individuals, families and groups to enhance well-being, strengthen communication and promote resilience. Originally from the Finger Lakes region, Audrey supports local farmers in her current role as Family Consultant with NY FarmNet. She is a certified Mental Health First Aid Instructor and Reiki practitioner; in addition, she holds a Graduate Certificate in Ecotherapy and is passionate about deepening connections to the natural world. 
 
 **Dan Torop**
 
