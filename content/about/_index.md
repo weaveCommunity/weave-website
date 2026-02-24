@@ -2,6 +2,10 @@
 title = "About Us"
 +++
 
+**Ben Altman**
+
+Ben Altman (b. 1953) is a British-American visual artist. He trained by studying Physics, towing icebergs, and working in commercial photography. Ben’s artistic practice responds to violent turning points of modern history, how they form our world, and what it means to inherit collective traumas. He works on and with the land where he lives in rural upstate New York, creating and documenting site-specific outdoor texts, sculptures, performances, and events. Altman has received a John Simon Guggenheim Memorial Fellowship, a NYSCA/NYFA Fellowship, the Houston Center for Photography Fellowship, Critical Mass Top 50, a Foundation for Contemporary Art Emergency Grant, New York State Council on the Arts Artist Support Grants, a Project Support Grant from the Center for Photographic Art, Artist in Community Grants in Tompkins County, NY, and many others. He exhibits locally and internationally.
+
 **Aimée Lehmann**
 
 Aimée Lehmann is a freelance writer whose writing reflects the intersect between place and identity. Her writing has appeared in various literary journals and community has been a consistent theme. With a career that started as a teacher in Kenya and moved towards training and organizing public health programs in East Africa, Aimée has now lived in Ithaca for 25 years and continues to be interested in connecting education with community building at the Soil Factory.
@@ -13,6 +17,11 @@ Johannes is originally from Munich, Germany, and has lived in Ithaca for 25 year
 **Rebecca Nelson**
 
 Rebecca Nelson is a biologist with interests in international smallholder agriculture, agroecology, and participatory research. She was born in Washington DC, spent 13 years abroad after graduate school, and has lived in Ithaca for the past 25 years.  She works at Cornell, where her research and teaching focus on circular economy for organic resources. Rebecca is a fan of the Soil Factory and its wider network.
+
+
+**Audrey McDougal**
+
+Audrey McDougal is a Licensed Clinical Social Worker with over ten years’ experience as a mental health clinician and educator. Audrey works with individuals, families and groups to enhance well-being, strengthen communication and promote resilience. Originally from the Finger Lakes region, Audrey supports local farmers in her current role as Family Consultant with NY FarmNet. She is a certified Mental Health First Aid Instructor and Reiki practitioner; in addition, she holds a Graduate Certificate in Ecotherapy and is passionate about deepening connections to the natural world. 
 
 **Dan Torop**
 
