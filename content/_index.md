@@ -2,6 +2,6 @@
 Banner = "img/banner.jpg"
 +++
 
-Our mission: To connect community members, artists, scientists, farmers, and policymakers, to explore the intersection of art and science, collaboration and conversation, and together through engagement create the tools, programs and events, that work toward a more sustainable inclusive, and socially just society.
+Weave Community mission: To connect people through conversation, programming, and experimentation while working at the nexus of art, science, and sustainability to discover new solutions for the issues of our day.
 
 ![1.jpg](img/1.jpg)

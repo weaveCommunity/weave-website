@@ -2,6 +2,8 @@
 title = "About Us"
 +++
 
+## Weave Community Board of Directors
+
 **Ben Altman**
 
 Ben Altman (b. 1953) is a British-American visual artist. He trained by studying Physics, towing icebergs, and working in commercial photography. Ben’s artistic practice responds to violent turning points of modern history, how they form our world, and what it means to inherit collective traumas. He works on and with the land where he lives in rural upstate New York, creating and documenting site-specific outdoor texts, sculptures, performances, and events. Altman has received a John Simon Guggenheim Memorial Fellowship, a NYSCA/NYFA Fellowship, the Houston Center for Photography Fellowship, Critical Mass Top 50, a Foundation for Contemporary Art Emergency Grant, New York State Council on the Arts Artist Support Grants, a Project Support Grant from the Center for Photographic Art, Artist in Community Grants in Tompkins County, NY, and many others. He exhibits locally and internationally.
@@ -27,7 +29,7 @@ Rebecca Nelson is a biologist with interests in international smallholder agricu
 
 Dan Torop is a photographer who examines how we shape, mark, and imagine the land. Torop is a co-editor of ASMR4, a series of photography monographs. His work has been shown nationally and internationally in galleries and museums. He has contributed code to *darktable*, an open source tool for processing photographs. *Triple Canopy*, *Cabinet*, *purple*, *Paper Monument* and other periodicals have published his images and writing. His involvement with The Soil Factory community includes working with the artist-in-residency group, the film screenings, and the general flow of the place.
 
-### Emeritus Board Members
+## Emeritus Board Members
 
 **Kathrin Achenbach**  
  Kathrin is a social arts practitioner with extensive experience as an educator, bridging language, cultural and social divides in settings around the world. Her interests include inquiry on how communities are created through verbal, non-verbal, visual, and face-to-face interactions. She believes that shared experiences grounded in respect and genuine curiosity are the foundation for healthy communities. Kathrin teaches middle-school and offers a regular communal practice of creative mending in diverse and intergenerational settings.
